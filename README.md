@@ -1,6 +1,5 @@
 # Deep Learning 1: Linear/Logistic Regression and Neural Networks
 
-![License](https://img.shields.io/github/license/abbasjahir99/Deep_Learning_1)
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.7.1-brightgreen)
 
@@ -54,11 +53,6 @@ This repository explores the implementation of linear regression, logistic regre
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-
-3. **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## How to Run
